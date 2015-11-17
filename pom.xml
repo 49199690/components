@@ -35,7 +35,7 @@
     	<sourceDirectory>src/main/scala</sourceDirectory>
     	<testSourceDirectory>src/test/scala</testSourceDirectory>
     	<filters>
-			<filter>src/main/resources/filters/kmp-${env}.properties</filter>
+			<filter>src/main/resources/filters/config-${env}.properties</filter>
 		</filters>
 		<resources>
 			<resource>
